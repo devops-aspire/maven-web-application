@@ -40,7 +40,7 @@ Kondhwa, Maharashtra, Pune 411048.
 		020-4855-2888
 		info@allops.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:devopstrainingblr@gmail.com">Mail To ALL OPS Technologies</a>
 	</span>
 </div>
 <hr>

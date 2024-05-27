@@ -47,8 +47,8 @@ Kondhwa, Maharashtra, Pune 411048.
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center>ALL OPS Technologies pvt. ltd. - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2022 by <a href="http://ALL OPS Technologies.com/">ALL OPS Technologies,Pune</a> </small></p>
 
 </body>
 </html>

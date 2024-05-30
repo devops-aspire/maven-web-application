@@ -97,12 +97,11 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-52-66-237-222.ap-south-1.compute.amazonaws.com:8081/repository/facebook-releases/</url>
-	    </repository>
-	    
+  <url>http://ec2-52-66-237-222.ap-south-1.compute.amazonaws.com:8081/repository/facebook-releases/</url>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+
 	      <url>http://ec2-52-66-237-222.ap-south-1.compute.amazonaws.com:8081/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
